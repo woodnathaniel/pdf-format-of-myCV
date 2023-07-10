@@ -3,6 +3,6 @@ clone the project and press the download button to download the pdf format of my
 
 clone the project, then run this cmd 'npm install' to install packages needed for the project
 
-Then we are ready download my pdf localy.
+Then we are ready to download my cv localy.
 
 Press the download button to download the pdf format of th cv
