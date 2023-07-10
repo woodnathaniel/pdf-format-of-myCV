@@ -1,0 +1,29 @@
+.cont{
+  display: flex;
+  flex-direction: row;
+}
+
+.li{
+  border-bottom: solid rgb(16, 66, 78);
+  margin-bottom: 20px;
+  border-radius: 0px;
+  border-width: 0.1px;
+  margin-left: 0px;
+  font-weight: 70px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.ul{
+  margin-left: 0px;
+}
+.skill{
+  width: 30%;
+  text-align: left;
+  /* border: solid red; */
+}
+.details{
+  width: 70%;
+  text-align: left;
+  margin-left: 0px;
+  /* border: solid red; */
+}

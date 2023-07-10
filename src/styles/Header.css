@@ -1,0 +1,32 @@
+.main-cont{
+  display: flex;
+  flex-direction: row;
+  
+}
+.profile{
+  width: 30%;
+  height: 100%;
+  /* background-color: rgb(43, 42, 42); */
+}
+.list{
+  width: 70%;
+  border-width: 0px;
+  border-left: solid black;
+  border-radius: 2px;
+  text-align: left;
+ /* margin-left:  ri;*/
+}
+li{
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  /* text-align: left; */
+  /* justify-self: baseline; */
+}
+h3{
+  color: #282c34;
+  font-size: larger;
+  font-weight: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

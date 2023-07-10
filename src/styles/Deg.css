@@ -1,0 +1,17 @@
+.deg{
+  width: 70%;
+  height: 3px;
+  background-color: #282c34;
+  margin-top: 10px;
+  margin-left: 30px;
+  border-end-end-radius: 50px;
+}
+.on{
+  width: 40px;
+  height: 4px;
+  background-color: #17a7fa;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  border-end-end-radius: 50px;
+}
