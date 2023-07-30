@@ -20,7 +20,7 @@ export function Skills() {
           <li className='li'> Good Knowledge in using Cisco Packet Tracer Application for Network Administration</li>
           <li className='li'> Good Knowledge in using Microsoft Office Tools</li>
           <li className='li'> Web Development, Front End Engineer, JavaScript(React JS, Redux)</li>
-          <li className='li'> Mobile Development with React Native</li>
+          {/* <li className='li'> Mobile Development with React Native</li> */}
           <li className='li'> PPE Use</li>
         </ul>
       </div>
